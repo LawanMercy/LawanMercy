@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m a Business Analyst and data analytics professional with hands-on experience supporting business operations, project/product management, system improvements, and data-driven decision-making across education and technology environments.
+I’m a  Mercy Lawan, a Business Analyst and data analytics professional with hands-on experience supporting business operations, project/product management, system improvements, and data-driven decision-making across education and technology environments.
 
 My background spans requirements gathering, UAT, process documentation, reporting, and cross-functional collaboration, sports analytics/information, with a strong foundation in Excel, SQL, Power BI, and CRM-based systems. I enjoy translating complex data and technical concepts into clear, actionable insights that help teams work more efficiently.
 
